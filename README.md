@@ -6,7 +6,7 @@ the current version is beta-0.2, if you're wondering what happened to 0.1, I los
 the programming language is coded in python and javascrpt, I'm hoping to get it moved over to javascript entierly when the features im working currently are done
 as with python, the language is interpreted, so its VERY SLOW, coded in python and being interpreted so thats where the javascript comes in, some features require node.js as they're coded in javascript instead of python for added speed.
 # Requirements
-Python 3 or above
+Python 3 or above and
 Node.js (a version that isn't archeaic should work)
 and the LPL source code
 # How to use
