@@ -1,4 +1,7 @@
 # LPL-programming-language
+# How to download!
+the diffrent versions are in diffrent branches of the project, the main is currently empty because the state of the programming language is years from being remotley finished!
+the current version is beta-0.2, if you're wondering what happened to 0.1, I lost it, too bad
 # How it works
 the programming language is coded in python and javascrpt, I'm hoping to get it moved over to javascript entierly when the features im working currently are done
 as with python, the language is interpreted, so its VERY SLOW, coded in python and being interpreted so thats where the javascript comes in, some features require node.js as they're coded in javascript instead of python for added speed.
